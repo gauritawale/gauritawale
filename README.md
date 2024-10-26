@@ -1,4 +1,9 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&s)
+<img 
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&s" 
+  alt="MasterHead" 
+  width="500" 
+  height="300" 
+/>
   
 <h1 align="center">Hi 👋, I'm Gauri Tawale</h1>
 <h3 align="center">A passionate full stack python developer from India</h3>
