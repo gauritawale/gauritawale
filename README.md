@@ -1,4 +1,4 @@
-  ![MasterHead]("https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif")
+![MasterHead](https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif)
 
   
 <h1 align="center">Hi 👋, I'm Gauri Tawale</h1>
