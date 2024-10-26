@@ -1,7 +1,7 @@
 <img 
   src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" 
   alt="MasterHead" 
-  style="width: 100%; height: 200px; object-fit: cover;" 
+  style="width: 10010; height: 200px; object-fit: cover;" 
 />
 
   
