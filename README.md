@@ -1,4 +1,4 @@
- [ ![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)]
+  ![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)
 <h1 align="center">Hi 👋, I'm Gauri Tawale</h1>
 <h3 align="center">A passionate full stack python developer from India</h3>
 
