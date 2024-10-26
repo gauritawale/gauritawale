@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gauri Tawale</h1>
 <h3 align="center">A passionate full stack python developer from India</h3>
 
-<img align="right" alt="codeing" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="left" alt="codeing" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauritawale&label=Profile%20views&color=0e75b6&style=flat" alt="gauritawale" /> </p>
 
