@@ -1,7 +1,7 @@
 <img 
   src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyj1il4ebo0e3cmy4803h.gif" 
   alt="MasterHead" 
-  style="width: 100%; height: 200px; object-fit: cover;" 
+  style="width: 100%; height: 200px; object-fit: cover;" align="center" 
 />
 
 
