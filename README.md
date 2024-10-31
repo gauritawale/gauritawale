@@ -8,7 +8,12 @@
 <h1 align="center">Hi 👋, I'm Gauri Tawale</h1>
 <h3 align="center">A passionate full stack python developer from India</h3>
 
-<img align="left" alt="codeing" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+
+<div class="col-md-6">
+<img align="left" alt="codeing" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">  
+</div>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauritawale&label=Profile%20views&color=0e75b6&style=flat" alt="gauritawale" /> </p>
 
