@@ -4,22 +4,22 @@
 />
 
 
-  
-<h1 align="center">Hi 👋, I'm Gauri Tawale</h1>
-<h3 align="center">A passionate full stack python developer from India</h3>
+<div class="row mt-5">
+  <div class="col-md-6">
+<h1 align="center" style="margin-top:50px">Hi 👋, I'm Gauri Tawale</h1>
+<h3 align="right">A passionate full stack python developer from India</h3>
+  </div>
 
 
 <div class="col-md-6">
 <img align="left" alt="codeing" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">  
 </div>
+</div>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauritawale&label=Profile%20views&color=0e75b6&style=flat" alt="gauritawale" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauritawale" alt="gauritawale" /></a> </p>
-
-
+<div class="row">
+<div class="col-md-12">
 
 - 🔭 I’m currently working on **Furniture Project of Ecommerce Project**
 
@@ -30,6 +30,14 @@
 - 📫 How to reach me **gauritawale04@gmail.com**
 
 - ⚡ Fun fact **"Only 10 lines of code separate 'working perfectly' from 'complete chaos'—it's all part of the adventure!"**
+
+  </div>
+  </div>
+
+
+
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
