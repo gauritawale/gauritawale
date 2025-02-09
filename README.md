@@ -20,9 +20,9 @@
 <div class="row">
 <div class="col-md-12">
 
-- 🔭 I’m currently working on **E-Learning Platform using react and Django**
+- 🔭 I’m currently working on **"E-Learning Platform using react and Django"**
 
-- 🌱 I’m currently learning **New Concept In Django and Also Learn React for frontend technologies**
+- 🌱 I’m currently learning **"New Concept In Django and Also Learn React for frontend technologies"**
 
 - 💬 Ask me about **Python,Django and React**
 
