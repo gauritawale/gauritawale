@@ -4,8 +4,15 @@
 <div class="row mt-5">
   <div class="col-md-6">
     <h1 align="center" style="margin-top:100">Hi 👋, I'm Gauri Tawale</h1>
-    <h3 align="center">A passionate full-stack Python developer from India</h3>
-    <p align="center">I am a Full Stack Software Engineer with a strong focus on creating user-centric web and mobile applications. With expertise in both front-end and back-end development, along with a deep understanding of UX design principles, I am dedicated to delivering seamless and engaging user experiences across platforms.</p>
+    <h3 align="center">Full-Stack Developer | PG-DAC Aspirant | Java React</h3>
+     <p align="center">
+        I am a <b>Computer Engineering Graduate (77.05%)</b> and current <b>PG-DAC student</b> with a passion for building scalable full-stack applications. I specialize in bridging the gap between robust back-end logic and engaging user interfaces.
+    </p>
+
+    <p align="center">
+        🚀 <b>Core Tech:</b> Java, Spring Boot, React, MySQL, and Python (Django). <br>
+        🛠️ <b>Current Project:</b> <a href="https://github.com">YumLoop</a> - A food waste management system built with Spring Boot & React.
+    </p>
   </div>
   <div class="col-md-6">
     <img align="left" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">  
