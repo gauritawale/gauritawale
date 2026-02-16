@@ -6,13 +6,9 @@
     <h1 align="center" style="margin-top:100">Hi 👋, I'm Gauri Tawale</h1>
     <h3 align="center">Full-Stack Developer | PG-DAC Aspirant | Java React</h3>
      <p align="center">
-        I am a <b>Computer Engineering Graduate (77.05%)</b> and current <b>PG-DAC student</b> with a passion for building scalable full-stack applications. I specialize in bridging the gap between robust back-end logic and engaging user interfaces.
+        I am a <b>Computer Engineering Graduate </b> and current <b>PG-DAC student</b> with a passion for building scalable full-stack applications. I specialize in bridging the gap between robust back-end logic and engaging user interfaces.
     </p>
 
-    <p align="center">
-        🚀 <b>Core Tech:</b> Java, Spring Boot, React, MySQL, and Python (Django). <br>
-        🛠️ <b>Current Project:</b> <a href="https://github.com">YumLoop</a> - A food waste management system built with Spring Boot & React.
-    </p>
   </div>
   <div class="col-md-6">
     <img align="left" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">  
