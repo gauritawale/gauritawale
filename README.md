@@ -36,6 +36,30 @@
   </div>
   </div>
 
+  <h3 align="left">🛠 Tech Stack & Tools:</h3>
+<p align="left">
+  <!-- Backend -->
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+<p align="left">
+  <!-- Database & Tools -->
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
 
 
 
