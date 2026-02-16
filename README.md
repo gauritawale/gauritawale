@@ -1,83 +1,76 @@
-![Paradigm-banner](https://user-images.githubusercontent.com/73504914/210301210-8d4df116-9b5c-4122-babe-b0b611b82f22.gif)
+<img src="https://user-images.githubusercontent.com/73504914/210301210-8d4df116-9b5c-4122-babe-b0b611b82f22.gif" width="100%" />
 
+<h1 align="center">Hi 👋, I'm Gauri Tawale</h1>
+<h3 align="center">Full-Stack Developer | PG-DAC Aspirant | Java • React • Spring Boot</h3>
 
-<div class="row mt-5">
-  <div class="col-md-6">
-    <h1 align="center" style="margin-top:100">Hi 👋, I'm Gauri Tawale</h1>
-    <h3 align="center">Full-Stack Developer | PG-DAC Aspirant | Java React</h3>
-     <p align="center">
-        I am a <b>Computer Engineering Graduate </b> and current <b>PG-DAC student</b> with a passion for building scalable full-stack applications. I specialize in bridging the gap between robust back-end logic and engaging user interfaces.
-    </p>
-
-  </div>
-  <div class="col-md-6">
-    <img align="left" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">  
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauritawale&label=Profile%20views&color=0e75b6&style=flat" alt="gauritawale" /> </p>
-
-  </div>
-</div>
-
-
-
-
-<div class="row">
-<div class="col-md-12">
-
-- 🔭 I’m currently working on **"CDAC Placements "**
-
-- 🌱 I’m currently learning **"How to Work on all rounds that companies conduct for placementss"**
-
-- 💬 Ask me about **Dac related technology and Django concepts **
-
-- 📫 How to reach me **gauritawale04@gmail.com**
-
-- ⚡ Fun fact **"Only 10 lines of code separate 'working perfectly' from 'complete chaos'—it's all part of the adventure!"**
-
-  </div>
-  </div>
-
-  <h3 align="left">🛠 Tech Stack & Tools:</h3>
-<p align="left">
-  <!-- Backend -->
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
-<p align="left">
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+<p align="center">
+  Computer Engineering Graduate and current <b>PG-DAC Student</b> passionate about building scalable, efficient, and user-focused full-stack applications.
+  I enjoy connecting powerful backend systems with clean and engaging frontend interfaces.
 </p>
 
+---
 
+## 🔭 Currently Working On
+- CDAC Placement Preparation (Technical + Aptitude + Interview Rounds)
+- Strengthening DSA & Core Java
+- Building Full-Stack Projects using React + Spring Boot
 
+## 🌱 Currently Learning
+- System Design Basics  
+- Optimization using Data Structures  
+- Advanced Backend Development  
 
+## 💬 Ask Me About
+- Java & Spring Boot  
+- React.js  
+- Django  
+- MySQL  
+- REST APIs  
 
+## 📫 Reach Me At
+📧 **gauritawale04@gmail.com**
 
-  
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/gauri-tawale-gauritawale/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    <a href="https://wa.me/918766778916" target="_blank">
-<img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-256.png" alt="osiotasamuel" height="40" width="40" />
-  </a>
+## 🛠 Tech Stack & Tools
+
+### 💻 Backend
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+### 🎨 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
+### 🗄 Database & Tools
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</p>
 
+---
 
+## ⚡ Fun Fact
+> Only 10 lines of code separate "Working Perfectly" from "Complete Chaos" — and that’s where real developers are made 😉
 
+---
 
+## 🌐 Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/gauri-tawale-gauritawale/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+</a>
+<a href="https://wa.me/918766778916" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40"/>
+</a>
+</p>
