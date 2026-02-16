@@ -20,11 +20,11 @@
 <div class="row">
 <div class="col-md-12">
 
-- 🔭 I’m currently working on **"E-Learning Platform using react and Django"**
+- 🔭 I’m currently working on **"CDAC Placements "**
 
-- 🌱 I’m currently learning **"New Concept In Django and Also Learn React for frontend technologies"**
+- 🌱 I’m currently learning **"How to Work on all rounds that companies conduct for placementss"**
 
-- 💬 Ask me about **Python,Django and React**
+- 💬 Ask me about **Dac related technology and Django concepts **
 
 - 📫 How to reach me **gauritawale04@gmail.com**
 
